@@ -1,1 +1,0 @@
-print("yo m starting my mini project on Parking lot vacancy detection using computer vision and machine learning.")
